@@ -81,7 +81,7 @@ zipcodes <- as.numeric(temp)
 zipcodesDT <- data.table(zipcodes)
 ## Obtain how many zip codes we have.
 zipcodesDT[zipcodes==21231, .N]
-[1] 127
+## [1] 127
 
 ################################
 ## Question 5
