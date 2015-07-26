@@ -1,3 +1,5 @@
+Getting and Cleaning Data
+
 This is a Readme file for the Course Project as part of Coursera course
 "Getting and Cleaning Data"
 

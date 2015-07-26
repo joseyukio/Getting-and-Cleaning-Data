@@ -88,10 +88,3 @@ tidyData <- dcast(tmpMelt, subject+activity ~ variable, mean)
 
 ## Create a file with independent tidy data set.
 write.table(tidyData,file = "tidyData.txt", row.names = FALSE)
-
-
-
-
-
-
-
